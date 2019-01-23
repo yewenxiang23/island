@@ -1,0 +1,5 @@
+/* 全局样式 */
+page {
+  font-family: "PingFangSC-Thin";   /*只在iOS生效 */
+  font-size:32rpx;
+}
